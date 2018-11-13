@@ -1,2 +1,5 @@
 # hello-world
-basic hello-world repository made for fun
+
+HI people of the world!!
+
+Rajat here, I like python.
